@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\GB13.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\GB13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\GB13.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\GB13.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\GB13.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB13\bin\Debug\net6.0\GB13.exe
+C:\Users\Asus\Desktop\GB13\bin\Debug\net6.0\GB13.deps.json
+C:\Users\Asus\Desktop\GB13\bin\Debug\net6.0\GB13.runtimeconfig.json
+C:\Users\Asus\Desktop\GB13\bin\Debug\net6.0\GB13.dll
+C:\Users\Asus\Desktop\GB13\bin\Debug\net6.0\GB13.pdb
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\GB13.dll
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\refint\GB13.dll
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\GB13.pdb
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\GB13.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB13\obj\Debug\net6.0\ref\GB13.dll
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\bin\Debug\net6.0\GB13.exe
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\bin\Debug\net6.0\GB13.deps.json
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\bin\Debug\net6.0\GB13.runtimeconfig.json
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\bin\Debug\net6.0\GB13.dll
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\bin\Debug\net6.0\GB13.pdb
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\GB13.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\GB13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\GB13.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\GB13.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\GB13.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\GB13.dll
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\refint\GB13.dll
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\GB13.pdb
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\GB13.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GBSeminar 2\GB13\obj\Debug\net6.0\ref\GB13.dll

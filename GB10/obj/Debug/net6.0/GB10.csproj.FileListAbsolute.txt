@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\GB10\bin\Debug\net6.0\GB10.exe
+C:\Users\Asus\Desktop\GB10\bin\Debug\net6.0\GB10.deps.json
+C:\Users\Asus\Desktop\GB10\bin\Debug\net6.0\GB10.runtimeconfig.json
+C:\Users\Asus\Desktop\GB10\bin\Debug\net6.0\GB10.dll
+C:\Users\Asus\Desktop\GB10\bin\Debug\net6.0\GB10.pdb
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\GB10.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\GB10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\GB10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\GB10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\GB10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\GB10.dll
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\refint\GB10.dll
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\GB10.pdb
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\GB10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB10\obj\Debug\net6.0\ref\GB10.dll
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\bin\Debug\net6.0\GB10.exe
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\bin\Debug\net6.0\GB10.deps.json
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\bin\Debug\net6.0\GB10.runtimeconfig.json
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\bin\Debug\net6.0\GB10.dll
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\bin\Debug\net6.0\GB10.pdb
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\GB10.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\GB10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\GB10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\GB10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\GB10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\GB10.dll
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\refint\GB10.dll
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\GB10.pdb
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\GB10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GBSeminar 2\GB10\obj\Debug\net6.0\ref\GB10.dll
